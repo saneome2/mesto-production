@@ -1,0 +1,9 @@
+.popup__button_type_cancel {
+  background: transparent;
+  color: #000;
+  margin-top: 10px;
+}
+
+.popup__button_type_cancel:hover {
+  background: rgba(0, 0, 0, 0.05);
+}

@@ -1,6 +1,7 @@
 @import url('./__content/popup__content.css');
 @import url('./__content/_content/popup__content_content_image.css');
 @import url('./__content/_content/popup__content_content_info.css');
+@import url('./_type/popup_type_image.css');
 @import url('./__close/popup__close.css');
 @import url('./__title/popup__title.css');
 @import url('./__form/popup__form.css');
@@ -8,6 +9,7 @@
 @import url('./__input/_type/popup__input_type_error.css');
 @import url('./__button/popup__button.css');
 @import url('./__button/_disabled/popup__button_disabled.css');
+@import url('./__button/_type/popup__button_type_cancel.css');
 @import url('./__caption/popup__caption.css');
 @import url('./__image/popup__image.css');
 @import url('./__label/popup__label.css');
@@ -18,6 +20,7 @@
 @import url('./__info-item/popup__info-item.css');
 @import url('./__info-description/popup__info-description.css');
 @import url('./__info-term/popup__info-term.css');
+@import url('./__info-list/popup__info-list.css');
 @import url('./__list/popup__list.css');
 @import url('./__list-item/popup__list-item.css');
 @import url('./__list-item/_type/popup__list-item_type_badge.css');
